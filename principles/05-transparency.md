@@ -1,6 +1,7 @@
 # 05 · Transparency
 
-> **Every answer should be traceable to its source.**
+> **Every outcome needs a path back to its source.**  
+> AI can simplify the answer. It must never make its origin invisible.
 
 *Group: about how we act on it*
 
@@ -9,7 +10,7 @@ As developers, we don't trust code we can't trace: we have logs, versions and st
 Information deserves the same: which source an answer came from, which version, which rule
 was applied.
 
-A fluent answer is not a trace.
+A fluent answer is not a trace. AI can make the answer simpler; it must never make its origin invisible.
 
 ## Why it matters for AI
 AI answers sound equally confident whether they are right or wrong. The only way to know

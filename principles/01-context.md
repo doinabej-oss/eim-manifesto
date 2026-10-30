@@ -1,11 +1,12 @@
 # 01 · Context
 
-> **Meaning lives in structure, not only in content.**
+> **Information without context is an assumption.**  
+> AI can process information. It cannot recover context we failed to preserve.
 
 *Group: about the information*
 
 ## What it means
-An AI agent can understand every sentence in a document and still misunderstand what the
+Meaning lives in structure, not only in content. An AI agent can understand every sentence in a document and still misunderstand what the
 document *is*: a draft or the signed version, current or superseded, for which client,
 under which contract. Much of that meaning is not in the text. It lives in the structure
 around it: folder paths, metadata, links between records, the system it came from.

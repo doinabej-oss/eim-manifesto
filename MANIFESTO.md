@@ -1,57 +1,62 @@
-# The EIM Manifesto for the AI Era
+# EIM Manifesto in the AI Era
 
-*Version 1.0 · Moldova DevCon 2026 · Open to pull requests*
+*AI is only as good as the information behind it.*
 
-AI is changing what we can do with information.
-Enterprise Information Management decides how confidently we can do it.
+<p align="center">
+  <img src="assets/eim-manifesto-poster.png" alt="EIM Manifesto in the AI Era poster: TRUST and six principles" width="480">
+</p>
 
-Every layer of an AI system (the models, the agents, the apps on top) depends on the
-information underneath. Trusted information is the oxygen. Without it, the brain still
-thinks. It just thinks on information it shouldn't trust.
+## TRUST
 
-**Trust isn't certainty. It's having good reason to rely on something, and knowing when not to.**
-
-Trust is not given. It is earned. These six principles are how information earns it:
-three about the information itself, three about how we act on it.
+**Trust is not given. It is earned.**
+**AI makes answers faster. Trust makes decisions faster.**
 
 ---
 
-## About the information
+## Six principles that create the conditions for trust
 
 ### 01 · Context
-**Meaning lives in structure, not only in content.**
-An agent can understand every sentence of a document and still misunderstand what the
-document *is*. Where it sits, what it belongs to, what it replaced: that is part of the
-information. When we move, copy or summarise information, we carry its context with it.
+Information without context is an assumption.
+AI can process information. It cannot recover context we failed to preserve.
+
+→ [Read more](principles/01-context.md)
 
 ### 02 · Quality × Quantity
-**Quantity multiplies quality, whatever that quality is.**
-One wrong record is a typo. A million copies of it is a policy. AI works at scale, so
-it scales whatever we feed it. Information has to be good enough to *act on*, not
-just good enough to *look right on screen*.
+More information does not mean better information.
+AI makes information quality more consequential, not less.
+
+→ [Read more](principles/02-quality-x-quantity.md)
 
 ### 03 · Knowledge
-**Make what the organisation knows, knowable.**
-Systems hold the data. People hold the context. Every exception that only someone
-remembers is a rule the AI will never see. Write it down, put it where the systems
-can reach it, and keep it current.
+Make what the organisation knows, knowable.
+AI cannot leverage knowledge the enterprise never made explicit.
 
-## About how we act on it
+→ [Read more](principles/03-knowledge.md)
 
 ### 04 · Governance
-**Decide who defines what things mean.**
-Who decides what ACTIVE means? Governance is the banks, AI is the river.
-Banks don't stop the river; they let it flow fast without flooding the town.
+Governance enables action at scale.
+Speed without guardrails does not eliminate risk. It accelerates it.
+
+→ [Read more](principles/04-governance.md)
 
 ### 05 · Transparency
-**Every answer should be traceable to its source.**
-We already expect logs and traces for code. Information deserves the same: which source,
-which version, which rule. A fluent answer is not a trace.
+Every outcome needs a path back to its source.
+AI can simplify the answer. It must never make its origin invisible.
+
+→ [Read more](principles/05-transparency.md)
 
 ### 06 · Accountability
-**Automation does not automate responsibility.**
-The approval step may disappear. The responsibility can't. For every decision an
-AI system takes or supports, someone owns it, and everyone knows who.
+Automation does not automate responsibility.
+Responsibility does not disappear when human intervention does.
+
+→ [Read more](principles/06-accountability.md)
+
+---
+
+## The mandate
+
+**Ask not only what we can automate, but what we understand.**
+**You cannot build trustworthy AI on information you do not trust.**
 
 ---
 
@@ -64,8 +69,8 @@ AI system takes or supports, someone owns it, and everyone knows who.
 | **T** | **Trace** the answer to a source you trust | 02 Quality × Quantity · 05 Transparency |
 | **S** | **Ship** with safeguards and a named owner | 06 Accountability |
 
-Six principles. Four letters. One habit.
+Six principles. Four letters. One habit. → [The ACTS checklist](practice/ACTS.md)
 
 ---
 
-> **Because you cannot build trustworthy AI on information you don't trust.**
+*Author: Doina Denevciuc · Moldova DevCon 2026 · Open to pull requests*

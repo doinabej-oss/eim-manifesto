@@ -1,11 +1,12 @@
 # 02 · Quality × Quantity
 
-> **Quantity multiplies quality, whatever that quality is.**
+> **More information does not mean better information.**  
+> AI makes information quality more consequential, not less.
 
 *Group: about the information*
 
 ## What it means
-Volume is a multiplier, not a virtue. Good information at scale becomes a capability.
+Quantity multiplies quality, whatever that quality is. Volume is a multiplier, not a virtue. Good information at scale becomes a capability.
 Bad information at scale becomes a policy. One wrong record is a typo; a million copies
 of it is how the organisation now behaves.
 

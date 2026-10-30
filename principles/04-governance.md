@@ -1,6 +1,7 @@
 # 04 · Governance
 
-> **Decide who defines what things mean.**
+> **Governance enables action at scale.**  
+> Speed without guardrails does not eliminate risk. It accelerates it.
 
 *Group: about how we act on it*
 

@@ -1,6 +1,7 @@
 # 03 · Knowledge
 
-> **Make what the organisation knows, knowable.**
+> **Make what the organisation knows, knowable.**  
+> AI cannot leverage knowledge the enterprise never made explicit.
 
 *Group: about the information*
 

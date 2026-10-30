@@ -1,6 +1,7 @@
 # 06 · Accountability
 
-> **Automation does not automate responsibility.**
+> **Automation does not automate responsibility.**  
+> Responsibility does not disappear when human intervention does.
 
 *Group: about how we act on it*
 
