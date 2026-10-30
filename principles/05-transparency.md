@@ -1,0 +1,32 @@
+# 05 · Transparency
+
+> **Every answer should be traceable to its source.**
+
+*Group: about how we act on it*
+
+## What it means
+As developers, we don't trust code we can't trace: we have logs, versions and stack traces.
+Information deserves the same: which source an answer came from, which version, which rule
+was applied.
+
+A fluent answer is not a trace.
+
+## Why it matters for AI
+AI answers sound equally confident whether they are right or wrong. The only way to know
+when to rely on one, and when not to, is to see where it came from.
+
+When the agent says "this contract expires in March", can you click through to the clause?
+
+## In practice
+- Show sources with every AI answer: document, version, date, system.
+- Log which records an agent read and which rule it applied when it acted.
+- Keep versions, so "what did it know at the time?" has an answer.
+- Make "I can't find a source" a valid answer instead of a guess.
+
+## Questions to ask
+- Can I click from this answer to the exact source?
+- Is that source the current version?
+- If this decision is challenged in six months, can we reconstruct it?
+
+## Feeds ACTS
+**T**race
