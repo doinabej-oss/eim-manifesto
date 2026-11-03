@@ -7,4 +7,4 @@ add your name with a pull request. One line, in alphabetical order by surname:
 
 ---
 
-- Doina Denevciuc, Author, Chișinău
+- Doina Derevciuc, Author, Chișinău

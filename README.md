@@ -7,8 +7,10 @@ Six principles that create the conditions for trust in enterprise information, s
 > You cannot build trustworthy AI on information you do not trust.
 
 <p align="center">
-  <a href="MANIFESTO.md"><img src="assets/eim-manifesto-poster.png" alt="EIM Manifesto in the AI Era poster" width="420"></a>
+  <a href="MANIFESTO.md"><img src="assets/eim-manifesto-poster.jpg" alt="EIM Manifesto in the AI Era poster: TRUST at the centre, surrounded by six principles: 01 Context, 02 Quality × Quantity, 03 Knowledge, 04 Governance, 05 Transparency, 06 Accountability. Closing line: You cannot build trustworthy AI on information you do not trust." width="720"></a>
 </p>
+
+<p align="center"><sub>Prefer a printable portrait version? See the <a href="assets/eim-manifesto-poster-handdrawn.png">hand-drawn poster</a>.</sub></p>
 
 This repository is the take-home from the talk *EIM Manifesto in the AI Era*,
 given at Moldova DevCon 2026 (6–7 November 2026, Chișinău).
@@ -52,7 +54,7 @@ first exercise to run with your team.
 
 ```
 MANIFESTO.md          the manifesto, one page
-assets/               the manifesto poster (print it, share it)
+assets/               the manifesto posters: main and hand-drawn (print them, share them)
 principles/           one file per principle: what, why, story, practice, questions
 practice/             ACTS checklist and team exercises
 stories/              the case stories from the talk
@@ -73,11 +75,11 @@ principles are discussed in an issue before a PR.
 
 Agree with it? Add your name to [SIGNATORIES.md](SIGNATORIES.md) with a pull request.
 
-## License
+## Licence
 
 Text is licensed under [Creative Commons Attribution 4.0](LICENSE) (CC BY 4.0).
 Share it, adapt it, use it in your own talks and teams. Just credit the source.
 
 ---
 
-*Author: Doina Denevciuc · Moldova DevCon 2026*
+*Author: Doina Derevciuc · Moldova DevCon 2026*

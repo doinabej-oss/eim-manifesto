@@ -3,12 +3,12 @@
 *AI is only as good as the information behind it.*
 
 <p align="center">
-  <img src="assets/eim-manifesto-poster.png" alt="EIM Manifesto in the AI Era poster: TRUST and six principles" width="480">
+  <img src="assets/eim-manifesto-poster.jpg" alt="EIM Manifesto in the AI Era poster: TRUST at the centre, surrounded by the six principles" width="720">
 </p>
 
 ## TRUST
 
-**Trust is not given. It is earned.**
+**Trust is not given. It is earned.**  
 **AI makes answers faster. Trust makes decisions faster.**
 
 ---
@@ -55,7 +55,7 @@ Responsibility does not disappear when human intervention does.
 
 ## The mandate
 
-**Ask not only what we can automate, but what we understand.**
+**Ask not only what we can automate, but what we understand.**  
 **You cannot build trustworthy AI on information you do not trust.**
 
 ---
@@ -73,4 +73,4 @@ Six principles. Four letters. One habit. → [The ACTS checklist](practice/ACTS.
 
 ---
 
-*Author: Doina Denevciuc · Moldova DevCon 2026 · Open to pull requests*
+*Author: Doina Derevciuc · Moldova DevCon 2026 · Open to pull requests*
