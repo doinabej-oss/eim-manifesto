@@ -11,6 +11,8 @@
 **Trust is not given. It is earned.**  
 **AI makes answers faster. Trust makes decisions faster.**
 
+Trust isn't certainty. It's having good reason to rely on something, and knowing when not to.
+
 ---
 
 ## Six principles that create the conditions for trust
@@ -64,12 +66,12 @@ Responsibility does not disappear when human intervention does.
 
 | | Step | Carries principles |
 |---|---|---|
-| **A** | **Ask** who decides what the data means | 04 Governance |
+| **A** | **Ask** what could be missing, and who decides | 04 Governance |
 | **C** | **Comprehend** the context and the knowledge behind it | 01 Context · 03 Knowledge |
 | **T** | **Trace** the answer to a source you trust | 02 Quality × Quantity · 05 Transparency |
 | **S** | **Ship** with safeguards and a named owner | 06 Accountability |
 
-Six principles. Four letters. One habit. → [The ACTS checklist](practice/ACTS.md)
+Six principles. Four letters. One habit: curiosity. → [The ACTS checklist](practice/ACTS.md)
 
 ---
 
