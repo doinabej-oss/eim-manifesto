@@ -15,12 +15,15 @@ when a person reads it) and **action-good** (it is right enough for a system to 
 without a person checking).
 
 ## Why it matters for AI
-AI doesn't read one record and pause. It reads everything, quickly, and acts on it.
-Whatever quality we have, AI reproduces it at speed.
+AI works at a scale no person can check by hand. An agent may read thousands of records
+in seconds and act on many of them. Whatever quality we have, good or bad, now travels
+further and faster than before.
 
 ## The story
 Think back to [the perfect migration](../stories/the-perfect-migration.md): one and a half
-million files. If one value had been wrong, we would have migrated it one and a half million times.
+million files. Scaling a migration also scales whatever problems are left unresolved in
+the source. One wrong record is a typo. One wrong rule applied across one and a half
+million files is a pattern, and an agent will act on it.
 
 ## In practice
 - Measure quality on the fields that drive action (status, dates, owners, amounts), not on everything.
@@ -33,5 +36,5 @@ million files. If one value had been wrong, we would have migrated it one and a 
 - If one value here is wrong, how many places will it end up?
 - Who notices when it's wrong, and how fast?
 
-## Feeds ACTS
+## Feeds ACTS (most directly)
 **T**race

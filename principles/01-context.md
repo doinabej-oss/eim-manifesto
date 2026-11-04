@@ -31,5 +31,5 @@ The folder path that held their provenance did not.
 - What did the old structure tell people that the new one doesn't?
 - Which fields does the AI actually see, and which ones only humans see?
 
-## Feeds ACTS
+## Feeds ACTS (most directly)
 **C**omprehend

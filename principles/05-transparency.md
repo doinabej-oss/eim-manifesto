@@ -13,8 +13,10 @@ was applied.
 A fluent answer is not a trace. AI can make the answer simpler; it must never make its origin invisible.
 
 ## Why it matters for AI
-AI answers sound equally confident whether they are right or wrong. The only way to know
-when to rely on one, and when not to, is to see where it came from.
+AI answers can sound equally confident whether they are right or wrong. Seeing where an
+answer came from doesn't prove it's right, but without it you can't check: is the source
+current, is it authoritative, and does it actually say what the answer claims? A trace is
+what makes that check possible.
 
 When the agent says "this contract expires in March", can you click through to the clause?
 
@@ -29,5 +31,5 @@ When the agent says "this contract expires in March", can you click through to t
 - Is that source the current version?
 - If this decision is challenged in six months, can we reconstruct it?
 
-## Feeds ACTS
+## Feeds ACTS (most directly)
 **T**race

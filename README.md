@@ -6,6 +6,18 @@ Six principles that create the conditions for trust in enterprise information, s
 
 > You cannot build trustworthy AI on information you do not trust.
 
+### What is EIM?
+
+**Enterprise Information Management (EIM)** is how an organisation answers five questions
+about every piece of information it holds, for as long as it exists:
+**what** it is, **where** it is, **who** is allowed to see it, **why** it can be trusted,
+and **when** it must be kept or deleted.
+
+Data governance, metadata, information quality, records management and information
+architecture are the disciplines that do this work. When EIM works, nobody notices:
+people find things, audits pass, decisions can be defended. And every AI system built on
+enterprise information inherits whatever EIM did, or didn't, do.
+
 <p align="center">
   <a href="MANIFESTO.md"><img src="assets/eim-manifesto-poster.jpg" alt="EIM Manifesto in the AI Era poster: TRUST at the centre, surrounded by six principles: 01 Context, 02 Quality × Quantity, 03 Knowledge, 04 Governance, 05 Transparency, 06 Accountability. Closing line: You cannot build trustworthy AI on information you do not trust." width="720"></a>
 </p>

@@ -29,5 +29,5 @@ Who owned that decision?
 - What can the agent do without asking, and who decided that?
 - How do we undo it?
 
-## Feeds ACTS
+## Feeds ACTS (most directly)
 **S**hip

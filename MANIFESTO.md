@@ -11,6 +11,11 @@
 **Trust is not given. It is earned.**  
 **AI makes answers faster. Trust makes decisions faster.**
 
+Trust isn't certainty. It's having good reason to rely on something, and knowing when not to.
+In an enterprise, those reasons are concrete: we know what the information means, we can
+trace where it came from, and we know who controls it and who answers for it. When those
+reasons are missing, trust means stopping to investigate before we act.
+
 ---
 
 ## Six principles that create the conditions for trust
@@ -62,14 +67,18 @@ Responsibility does not disappear when human intervention does.
 
 ## Before AI acts, remember ACTS
 
-| | Step | Carries principles |
+| | Step | Most direct principles |
 |---|---|---|
-| **A** | **Ask** who decides what the data means | 04 Governance |
+| **A** | **Ask:** challenge assumptions. What could be missing? Who decides? | 04 Governance |
 | **C** | **Comprehend** the context and the knowledge behind it | 01 Context · 03 Knowledge |
 | **T** | **Trace** the answer to a source you trust | 02 Quality × Quantity · 05 Transparency |
 | **S** | **Ship** with safeguards and a named owner | 06 Accountability |
 
-Six principles. Four letters. One habit. → [The ACTS checklist](practice/ACTS.md)
+Each step connects most directly to the principles shown. Quality, governance and
+accountability matter in all four.
+
+Six principles. Four letters. One habit: curiosity. **Don't outsource your curiosity to the model.**
+→ [The ACTS checklist](practice/ACTS.md)
 
 ---
 

@@ -12,8 +12,10 @@ work because a person is in the loop and can be asked.
 
 ## Why it matters for AI
 AI cannot whisper. It cannot lean over to a colleague and ask what a field *really* means,
-or why a record was handled differently last year. If a rule isn't written down somewhere
-the system can reach, for AI it doesn't exist.
+or why a record was handled differently last year, unless we have built that path for it.
+An agent can only consult the people, rules and known exceptions we connect it to. If a
+rule isn't written down somewhere the system can reach, the agent can't apply it, and it
+may not even know that something is missing.
 
 Context (01) is meaning held by *structure*. Knowledge is meaning held by *people*.
 
@@ -32,5 +34,5 @@ someone's memory.
 - Which "unofficial" values or workarounds exist in this system?
 - What does the AI not know that every senior colleague does?
 
-## Feeds ACTS
+## Feeds ACTS (most directly)
 **C**omprehend
