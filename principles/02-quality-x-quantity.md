@@ -15,12 +15,13 @@ when a person reads it) and **action-good** (it is right enough for a system to 
 without a person checking).
 
 ## Why it matters for AI
-AI doesn't read one record and pause. It reads everything, quickly, and acts on it.
+AI doesn't read one record and pause. It can read thousands in seconds, and act on them.
 Whatever quality we have, AI reproduces it at speed.
 
 ## The story
 Think back to [the perfect migration](../stories/the-perfect-migration.md): one and a half
-million files. If one value had been wrong, we would have migrated it one and a half million times.
+million files. One wrong record is a typo. One wrong rule across one and a half million
+files is a pattern, and your agent will act on it.
 
 ## In practice
 - Measure quality on the fields that drive action (status, dates, owners, amounts), not on everything.

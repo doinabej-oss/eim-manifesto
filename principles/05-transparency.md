@@ -13,8 +13,8 @@ was applied.
 A fluent answer is not a trace. AI can make the answer simpler; it must never make its origin invisible.
 
 ## Why it matters for AI
-AI answers sound equally confident whether they are right or wrong. The only way to know
-when to rely on one, and when not to, is to see where it came from.
+AI answers sound equally confident whether they are right or wrong. To know when to rely
+on one, and when not to, you first need to see where it came from.
 
 When the agent says "this contract expires in March", can you click through to the clause?
 

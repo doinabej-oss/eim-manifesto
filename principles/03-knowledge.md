@@ -12,8 +12,8 @@ work because a person is in the loop and can be asked.
 
 ## Why it matters for AI
 AI cannot whisper. It cannot lean over to a colleague and ask what a field *really* means,
-or why a record was handled differently last year. If a rule isn't written down somewhere
-the system can reach, for AI it doesn't exist.
+or why a record was handled differently last year, unless we've built it a way to. If a
+rule isn't written down somewhere the system can reach, the AI can't use it.
 
 Context (01) is meaning held by *structure*. Knowledge is meaning held by *people*.
 

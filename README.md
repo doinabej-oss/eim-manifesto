@@ -4,6 +4,9 @@
 
 Six principles that create the conditions for trust in enterprise information, so AI can act on it.
 
+*EIM, Enterprise Information Management, is how an organisation knows what information it
+has, where it is, who may see it, why it can be trusted, and when to keep or delete it.*
+
 > You cannot build trustworthy AI on information you do not trust.
 
 <p align="center">
