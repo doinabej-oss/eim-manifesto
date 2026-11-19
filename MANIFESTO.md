@@ -75,4 +75,4 @@ Six principles. Four letters. One habit: curiosity. → [The ACTS checklist](pra
 
 ---
 
-*Author: Doina Derevciuc · Moldova DevCon 2026 · Open to pull requests*
+*Author: Doina Derevciuc · Version 1.1 · Open to pull requests*

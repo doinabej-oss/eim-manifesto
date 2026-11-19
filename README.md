@@ -15,10 +15,10 @@ has, where it is, who may see it, why it can be trusted, and when to keep or del
 
 <p align="center"><sub>Prefer a printable portrait version? See the <a href="assets/eim-manifesto-poster-handdrawn.png">hand-drawn poster</a>.</sub></p>
 
-This repository is the take-home from the talk *EIM Manifesto in the AI Era*,
-given at Moldova DevCon 2026 (6–7 November 2026, Chișinău).
-It is open to pull requests: if you've lived one of these stories, or a principle
-is missing a case, help make it better.
+This is a living manifesto: a short statement of what it takes for enterprise
+information to be trustworthy enough for AI to act on. Like software, it is versioned
+and open to pull requests. If you've lived one of these stories, or a principle is
+missing a case, help make it better.
 
 📜 **[Read the manifesto →](MANIFESTO.md)**
 
@@ -60,7 +60,7 @@ MANIFESTO.md          the manifesto, one page
 assets/               the manifesto posters: main and hand-drawn (print them, share them)
 principles/           one file per principle: what, why, story, practice, questions
 practice/             ACTS checklist and team exercises
-stories/              the case stories from the talk
+stories/              real-world stories behind the principles
 CONTRIBUTING.md       how to propose changes
 ```
 
@@ -85,4 +85,4 @@ Share it, adapt it, use it in your own talks and teams. Just credit the source.
 
 ---
 
-*Author: Doina Derevciuc · Moldova DevCon 2026*
+*Author: Doina Derevciuc · Open to pull requests*
