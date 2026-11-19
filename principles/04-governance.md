@@ -13,7 +13,7 @@ Governance is the banks, AI is the river. Banks don't stop the river. They let i
 flow fast without flooding the town.
 
 ## Why it matters for AI
-Organisations are adopting AI faster than they govern it. IDC research for Lenovo (2026)
+Organisations are adopting AI faster than they govern it. [IDC research for Lenovo (2026)](https://www.lenovo.com/us/en/solutions/cioplaybook2026/)
 found 60% of organisations in late-stage AI adoption, but only 27% with a comprehensive
 AI governance framework. Agents act on definitions; if nobody owns the definitions,
 nobody owns what the agents do.

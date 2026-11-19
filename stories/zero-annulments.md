@@ -2,8 +2,6 @@
 
 *Illustrates: [03 Knowledge](../principles/03-knowledge.md) · [04 Governance](../principles/04-governance.md) · [06 Accountability](../principles/06-accountability.md)*
 
-A different project. Another perfect story.
-
 We were asked a simple question: how many documents had been annulled? The query was
 correct. The data model had a STATUS field, and ANNULLED was one of its values. We ran it.
 
