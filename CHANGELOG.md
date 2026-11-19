@@ -5,6 +5,7 @@
   the manifesto footer and both posters.
 - README describes the repository as a living manifesto.
 - *Zero annulments* now reads as a standalone story.
+- 04 Governance: the IDC/Lenovo statistic now links to its source, the Lenovo CIO Playbook 2026.
 
 ## 1.0 — 7 November 2026
 - First public version, presented at Moldova DevCon 2026.
